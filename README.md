@@ -6,4 +6,5 @@ For my first independent project I've written a Python script that automatically
 * Finally, the script automatically sets the desktop background 
 * Using a batch file and Windows Task Manager, this script is executed daily to provide me with a fresh new background everyday
 
+![](Images/.png)
 
